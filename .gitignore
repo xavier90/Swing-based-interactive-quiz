@@ -1,3 +1,9 @@
 java doc
 
 *.jar
+
+.externalToolBuilders/
+.fatjar
+.project
+.settings/
+bin/
